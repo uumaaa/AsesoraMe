@@ -1,0 +1,49 @@
+name: asispnia
+description: A new Flutter project.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.5 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  hexcolor:
+  get:
+  dio:
+  random_string:
+  qr_code_scanner: ^1.0.1
+  html: ^0.15.4
+  logger:
+  get_it:
+  flutter_secure_storage:
+  provider:
+  intl:
+  firebase_auth: ^4.9.0
+  firebase_core: ^2.15.1
+  firebase_storage: ^11.2.6
+  cloud_firestore: ^4.9.1
+  firebase_messaging: ^14.6.7
+  fluttertoast: ^8.2.2
+  image_picker: ^1.0.4
+  shared_preferences: ^2.2.1
+  flutter_local_notifications: ^15.1.1
+  photo_view: ^0.14.0
+  url_launcher: ^6.1.14
+  qr_flutter: ^4.1.0
+  flutter_rating_bar: ^4.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logos/
+    - assets/background/
+    - assets/avatars/
+    - assets/achievements/
+  #   - images/a_dot_ham.jpeg

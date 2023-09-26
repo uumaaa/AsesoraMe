@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "451417525900",
+    "project_id": "asesorame-301bd",
+    "storage_bucket": "asesorame-301bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451417525900:android:4b8d862e1e9c02fbe275a9",
+        "android_client_info": {
+          "package_name": "app.asispnia.asispnia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451417525900-pu35mslr0q02sr6oigf3cdu126ajnuj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1W4nZUDynTS3ljKaYgqz8qLnJlTbOC68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451417525900-pu35mslr0q02sr6oigf3cdu126ajnuj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
